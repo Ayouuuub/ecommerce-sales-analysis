@@ -34,12 +34,6 @@ and provide actionable insights for business strategy.
 
 ---
 
-## 📷 Sample Visuals
-![Revenue Trend](images/revenue_trend.png)  
-*(add exported charts here for better visuals)*  
-
----
-
 ## 🚀 How to Run
 1. Clone repo:  
    ```bash
