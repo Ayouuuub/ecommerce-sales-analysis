@@ -37,7 +37,7 @@ and provide actionable insights for business strategy.
 ## 🚀 How to Run
 1. Clone repo:  
    ```bash
-   git clone https://github.com/your-username/ecommerce-sales-analysis.git
+   git clone https://github.com/Ayouuuub/ecommerce-sales-analysis.git
 
 Install requirements:
 
